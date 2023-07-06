@@ -1,18 +1,17 @@
-# Credit-Card-Customer-Clustering
+# Credit Card Customer Clustering
 Customer segmentation to define a marketing strategy
 
 This project is based on the dataset [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata), stored in Kaggle.
 
 ### About Dataset
 
-This case requires to develop a customer segmentation to define marketing strategy. The
-sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
+This case requires developing a customer segmentation to define a marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 
-Following is the Data Dictionary for Credit Card dataset :-
+Following is the Data Dictionary for the Credit Card dataset:
 
 - **CUST_ID** : Identification of Credit Card holder (Categorical)
 - **BALANCE** : Balance amount left in their account to make purchases (
-- **BALANCE_FREQUENCY** : How frequently the Balance is updated, score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)
+- **BALANCE_FREQUENCY** : How frequently the Balance is updated, a score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)
 - **PURCHASES** : Amount of purchases made from account
 - **ONEOFF_PURCHASES** : Maximum purchase amount done in one-go
 - **INSTALLMENTS_PURCHASES** : Amount of purchase done in installment
