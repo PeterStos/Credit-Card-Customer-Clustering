@@ -1,7 +1,7 @@
 # Credit-Card-Customer-Clustering
 Customer segmentation to define a marketing strategy
 
-This project is based on the dataset [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata), stored in Kaggle. .
+This project is based on the dataset [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata), stored in Kaggle.
 
 ### About Dataset
 
